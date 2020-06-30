@@ -1,0 +1,77 @@
+[
+    {
+        "letter": "A",
+        "terms": [
+            {
+                "title": "Alimento perecedero",
+                "desciption": "Alimento que por su composición y características fisicoquímicas, puede alterarse rápidamente, por lo cual, requiere condiciones especiales de manejo durante su procesamiento, almacenamiento, conservación, transporte y expendio."
+            }
+        ]
+    },
+    {
+        "letter": "C",
+        "terms": [
+            {
+                "title": "Conserva",
+                "desciption": "Alimento que ha sido tratado térmicamente de forma apropiada, antes o después de haber sido envasado y cerrado herméticamente para evitar su alteración."        
+            }
+        ]
+    }, 
+    {
+        "letter": "D",
+        "terms": [
+            {
+                "title": "Despulpado",
+                "desciption": "Acción de separar  la pulpa o parte comestible de la fruta de las semillas, cáscara y partes no comestibles."
+            }
+        ]
+    },
+    {
+        "letter": "E",
+        "terms": [
+            {
+                "title": "Enzimas",
+                "desciption": "Componentes de los alimentos de origen proteínico que catalizan diversas reacciones de degradación."
+            },
+            {
+                "title": "Escaldado",
+                "desciption": "Tratamiento térmico de corta duración (de 1 a 5 minutos) y baja temperatura (de 85 a 98°C) realizado en frutas y hortalizas con el fin de ablandar tejidos, disminuir la carga microbiana e inhibir la acción enzimática que da origen a procesos de deterioro."
+            },
+            {
+                "title": "Espacio de cabeza",
+                "desciption": "Volumen no ocupado en un envase hermético."
+            },
+            {
+                "title": "Esterilización Industrial",
+                "desciption": "Tratamiento térmico de alta temperatura (igual o superior a 100°C) cuyo fin es la inactivación o inhibición de microorganismos (o sus esporas)."
+            }
+        ]
+    },  
+    {
+        "letter": "G",
+        "terms": [
+            {
+                "title": "Grados Brix",
+                "desciption": "medida de la concentración de sólidos solubles en los alimentos que se calcula con el refractómetro."
+            }
+        ] 
+    },  
+    {
+        "letter": "H",
+        "terms": [
+        {
+            "title": "Hermético",
+            "desciption": "sellado en ausencia de oxígeno y de otros gases."
+        }
+        ]
+    },
+    {
+        "letter": "L",
+        "terms": [
+        {
+            "title": "Líquido de cobertura",
+            "desciption": "Mezcla de sustancias que componen en un 30 a 40% las conservas de frutas y hortalizas. Pueden ser jarabes o salmueras."
+        }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+   
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "elaboracion_de_productos_derivados_de_frutas_y_hortalizas",
+    "title": "1. Elaboración de productos derivados de frutas y hortalizas",
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "elaboracion_de_productos_derivados_de_frutas_y_hortalizas",
+        "title": "1.1 Operaciones preliminares",
+        "anchor": "op"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "elaboracion_de_productos_derivados_de_frutas_y_hortalizas",
+        "title": "1.2 Elaboración de mermeladas",
+        "anchor": "em"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "elaboracion_de_productos_derivados_de_frutas_y_hortalizas",
+        "title": "1.3 Elaboración de conservas de frutas y hortalizas",
+        "anchor": "ef"
+      }
+    ]
+  }, 
+ 
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }
+  
+]
